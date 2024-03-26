@@ -1,0 +1,1 @@
+# go_30_gin_auth
